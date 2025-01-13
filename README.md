@@ -15,3 +15,19 @@ To view the details of each project, simply click on the project name in the tab
 # 🤝 Contributing
 If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
 # 📋 License
+This project is licensed under the MIT License 
+You can copy and paste this code into a Markdown file and modify the text as needed.
+# Project : 👕Shirt_project
+## 👕 Shirt Management System
+Welcome to the Shirt Management System, a Java-based application that allows you to manage a collection of shirts efficiently. The system supports various operations like accessing shirts by brand, price, size, and color, as well as sorting and counting shirts based on different criteria.
+## 📂 Project Structure
+ ```plaintext
+JAVA_COLLECTIONS_PROJECTS
+   └── src
+       └── Shirt_Project
+           ├── Driver.java
+           ├── PriceComparatorLowToHigh.java
+           ├── PriceComparatorHighToLow.java
+           ├── Service.java
+           └── Shirt.java 
+```
