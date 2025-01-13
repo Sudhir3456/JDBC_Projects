@@ -23,7 +23,12 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 
 [Hospital Management System](./src/HospitalManagementSystem) 
 
-[Hotel Reservation System](.src/HotalManagementSystem) 
+[Hotel Reservation System](./src/HotalManagementSystem) 
+
+/src/HotalManagementSystem
+[Hotel Reservation System](./src/HotalManagementSystem) 
+
+
 
 [Hospital Management System](./src/HospitalManagementSystem) 
 
