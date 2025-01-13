@@ -1,10 +1,11 @@
 package com.student.manage;
 
 public class Student {
-	
+
 	private int studentId;
 	private String studentName;
 	private String studentPhone;
+
 	public int getStudentId() {
 		return studentId;
 	}
@@ -38,7 +39,7 @@ public class Student {
 	}
 
 	private String studentCity;
-	
+
 	public Student(int studentId, String studentName, String studentPhone, String studentCity) {
 		super();
 		this.studentId = studentId;
@@ -64,9 +65,5 @@ public class Student {
 		return "Student [studentId=" + studentId + ", studentName=" + studentName + ", studentPhone=" + studentPhone
 				+ ", studentCity=" + studentCity + "]";
 	}
-	
-	
-	
-	
 
 }
