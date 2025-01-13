@@ -1,13 +1,14 @@
-# 💡 JAVA_COLLECTIONS_PROJECTS 🎉
-This repository contains a list of all the projects completed during my Java training. The projects were completed using a combination of Core java,OOPs and Collections Frameworks techniques and Eclips tools.
+# 💡CORE JAVA AND JDBC PROJECTS 🎉
+This repository contains a list of all the projects completed during my Java training. The projects were completed using a combination of Core java,OOPs, Collections Frameworks, and JDBC techniques and Eclips, 
+ MYSQL tools.
 
 # 👩‍💻 Project List
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Shirt_project  | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
-| employ_project    | A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
-| shape_project1  | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+| Shirt_project  | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core),  MySQL Database , Eclips IDE|
+| employ_project    | A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE,  MySQL Database, JDK Git & GitHub for version control |
+| shape_project1  |Hotel Reservation System, a Java-based application for managing hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system simplifies the reservation process, enhances guest management, and keeps your business organized.|Java (Core) , Collections, Eclips IDE, JDK, MySQL Database, Git & GitHub for version control |
 
 
 # 🚀 Getting Started
