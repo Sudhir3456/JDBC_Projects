@@ -20,6 +20,16 @@ This project is licensed under the MIT License
 You can copy and paste this code into a Markdown file and modify the text as needed.
 # Project : 👕Shirt_project
 [Banking System Project](./src/Bank_Management_system)  
+
+[Hospital Management System](./src/HospitalManagementSystem) 
+
+[Hotel Reservation System](.src/HotalManagementSystem) 
+
+[Hospital Management System](./src/HospitalManagementSystem) 
+
+
+[Student Management System](./src/com/student/manage/README.md) 
+
 ## 👕 Shirt Management System
 Welcome to the Shirt Management System, a Java-based application that allows you to manage a collection of shirts efficiently. The system supports various operations like accessing shirts by brand, price, size, and color, as well as sorting and counting shirts based on different criteria.
 ## 📂 Project Structure
