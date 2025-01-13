@@ -1,8 +1,8 @@
-#🏨 Hotel Reservation System  
+# 🏨 Hotel Reservation System  
 
 Welcome to the Hotel Reservation System, a Java-based application for managing hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system simplifies the reservation process, enhances guest management, and keeps your business organized.
 
-##🌟 Features  
+# 🌟 Features  
 
 - **Reserve a Room:** Easily make new reservations by providing guest details, room numbers, and contact information.
 
@@ -12,7 +12,7 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 
 - **Delete Reservations:** Remove reservations that are no longer needed.
 
-## Getting Started 🚀
+# Getting Started 🚀
 
 ### Prerequisites
 
@@ -36,15 +36,15 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 3. Compile and run the application
 4. Follow the on-screen menu options to use the system.
 
-### Usage 📋
+# Usage 📋
 - Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
 
 - Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
 
-### Contributing 🤝
+# Contributing 🤝
 - Contributions are welcome! Feel free to open issues and pull requests for bug fixes, enhancements, or new features.
 
-### Acknowledgments 🙏
+# Acknowledgments 🙏
 - Special thanks to all contributors and supporters of the Hotel Reservation System project.
 
-###🌆 Happy booking!  
+### 🌆 Happy booking!  
