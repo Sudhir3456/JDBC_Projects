@@ -67,6 +67,7 @@ public class User {
 		return null;
 	}
 
+	    //Sudhir Kumar Yadav
 	public boolean user_exist(String email) {
 		String query = "SELECT * FROM user WHERE email = ?";
 		try {
@@ -83,4 +84,4 @@ public class User {
 		}
 		return false;
 	}
-}
+ }
