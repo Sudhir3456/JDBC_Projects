@@ -47,5 +47,5 @@ JDBC_PROJECTS
  
 # 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
-
+- 
 # Happy coding! 🎉
